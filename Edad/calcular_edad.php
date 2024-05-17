@@ -32,4 +32,5 @@ if(isset($_POST['fecha_nacimiento'])) {
     echo "<p>No se ha proporcionado una fecha de nacimiento.</p>";
 }
 
+
 ?>
